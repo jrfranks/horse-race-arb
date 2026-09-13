@@ -1,0 +1,92 @@
+[
+  {
+    "book": "BookAlpha",
+    "track": "SA",
+    "date": "2026-09-13",
+    "race_number": 5,
+    "market": "win",
+    "outcome": "Thunder Bay",
+    "odds": 3.80
+  },
+  {
+    "book": "BookAlpha",
+    "track": "SA",
+    "date": "2026-09-13",
+    "race_number": 5,
+    "market": "win",
+    "outcome": "Coastal Fog",
+    "odds": 2.40
+  },
+  {
+    "book": "BookAlpha",
+    "track": "SA",
+    "date": "2026-09-13",
+    "race_number": 5,
+    "market": "win",
+    "outcome": "Meadow Lark",
+    "odds": 4.20
+  },
+  {
+    "book": "BookBeta",
+    "track": "SA",
+    "date": "2026-09-13",
+    "race_number": 5,
+    "market": "win",
+    "outcome": "Thunder Bay",
+    "odds": 2.90
+  },
+  {
+    "book": "BookBeta",
+    "track": "SA",
+    "date": "2026-09-13",
+    "race_number": 5,
+    "market": "win",
+    "outcome": "Coastal Fog",
+    "odds": 3.60
+  },
+  {
+    "book": "BookBeta",
+    "track": "SA",
+    "date": "2026-09-13",
+    "race_number": 5,
+    "market": "win",
+    "outcome": "Meadow Lark",
+    "odds": 3.10
+  },
+  {
+    "book": "BookAlpha",
+    "track": "SA",
+    "date": "2026-09-13",
+    "race_number": 5,
+    "market": "horse_vs_field",
+    "outcome": "Thunder Bay",
+    "odds": 2.25
+  },
+  {
+    "book": "BookAlpha",
+    "track": "SA",
+    "date": "2026-09-13",
+    "race_number": 5,
+    "market": "horse_vs_field",
+    "outcome": "Field",
+    "odds": 1.85
+  },
+  {
+    "book": "BookBeta",
+    "track": "SA",
+    "date": "2026-09-13",
+    "race_number": 5,
+    "market": "horse_vs_field",
+    "outcome": "Thunder Bay",
+    "odds": 1.80
+  },
+  {
+    "book": "BookBeta",
+    "track": "SA",
+    "date": "2026-09-13",
+    "race_number": 5,
+    "market": "horse_vs_field",
+    "outcome": "Field",
+    "odds": 2.20
+  }
+]

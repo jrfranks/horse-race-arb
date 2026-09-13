@@ -1,0 +1,32 @@
+[
+  {
+    "book": "Xpressbet",
+    "track": "SA",
+    "date": "2026-09-13",
+    "race_number": 5,
+    "market": "win",
+    "outcome": "Thunder Bay",
+    "odds": 3.50,
+    "source": "xpressbet"
+  },
+  {
+    "book": "Xpressbet",
+    "track": "SA",
+    "date": "2026-09-13",
+    "race_number": 5,
+    "market": "win",
+    "outcome": "Coastal Fog",
+    "odds": 3.40,
+    "source": "xpressbet"
+  },
+  {
+    "book": "Xpressbet",
+    "track": "SA",
+    "date": "2026-09-13",
+    "race_number": 5,
+    "market": "win",
+    "outcome": "Meadow Lark",
+    "odds": 3.90,
+    "source": "xpressbet"
+  }
+]
