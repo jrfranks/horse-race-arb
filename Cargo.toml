@@ -1,0 +1,28 @@
+[package]
+name = "race-arb"
+version = "0.1.0"
+edition = "2021"
+description = "Horse-race surebet / odds arbitrage scanner (alerts + stake sizes only; never places bets)"
+license = "MIT"
+repository = "https://github.com/jrfranks/horse-race-arb"
+readme = "README.md"
+keywords = ["arbitrage", "surebet", "horse-racing", "odds"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "2"
+chrono = { version = "0.4", default-features = false, features = ["serde", "std", "clock"] }
+
+[dev-dependencies]
+approx = "0.5"
+
+[[bin]]
+name = "race-arb"
+path = "src/main.rs"
+
+[lib]
+name = "race_arb"
+path = "src/lib.rs"
